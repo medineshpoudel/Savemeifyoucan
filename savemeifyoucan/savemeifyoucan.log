@@ -1,0 +1,19 @@
+﻿  main.cpp
+d:\savemeifyoucan\savemeifyoucan\main.cpp(42): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\savemeifyoucan\savemeifyoucan\main.cpp(1422): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\savemeifyoucan\savemeifyoucan\main.cpp(502): warning C4101: 'i': unreferenced local variable
+d:\savemeifyoucan\savemeifyoucan\main.cpp(1363): warning C4101: 'y2': unreferenced local variable
+d:\savemeifyoucan\savemeifyoucan\main.cpp(1363): warning C4101: 'y1': unreferenced local variable
+d:\savemeifyoucan\savemeifyoucan\main.cpp(1363): warning C4101: 'z': unreferenced local variable
+d:\savemeifyoucan\savemeifyoucan\main.cpp(1363): warning C4101: 'x1': unreferenced local variable
+d:\savemeifyoucan\savemeifyoucan\main.cpp(1363): warning C4101: 'z2': unreferenced local variable
+d:\savemeifyoucan\savemeifyoucan\main.cpp(1363): warning C4101: 'y3': unreferenced local variable
+d:\savemeifyoucan\savemeifyoucan\main.cpp(1363): warning C4101: 'y': unreferenced local variable
+d:\savemeifyoucan\savemeifyoucan\main.cpp(1363): warning C4101: 'z3': unreferenced local variable
+d:\savemeifyoucan\savemeifyoucan\main.cpp(1363): warning C4101: 'x3': unreferenced local variable
+d:\savemeifyoucan\savemeifyoucan\main.cpp(1361): warning C4101: 'i': unreferenced local variable
+d:\savemeifyoucan\savemeifyoucan\main.cpp(1363): warning C4101: 'z1': unreferenced local variable
+d:\savemeifyoucan\savemeifyoucan\main.cpp(1363): warning C4101: 'x2': unreferenced local variable
+  menu.cpp
+  Generating Code...
+  savemeifyoucan.vcxproj -> D:\savemeifyoucan\Debug\savemeifyoucan.exe

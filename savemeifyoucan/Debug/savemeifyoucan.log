@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\savemeifyoucan\savemeifyoucan\main.cpp(23): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  savemeifyoucan.vcxproj -> D:\savemeifyoucan\Debug\savemeifyoucan.exe
